@@ -1,0 +1,15 @@
+TO comment :message
+END
+
+cs
+setpensize 5
+setpencolor "#303f9f
+
+repeat 360 [ fd 1 rt 1 ] 
+repeat 360 [ fd 2 rt 1 ]
+rt 180 
+repeat 360 [ fd 1 rt 1 ]
+repeat 360 [ fd 2 rt 1 ]
+rt 180
+lt 15 fd 200 bk 200
+rt 30 fd 200 bk 200
